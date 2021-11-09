@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ResumeMy</string>
+    <string name="aboutMeText">I am currently pursuing my Btech (CSE branch) from GLA University, Mathura. I am good at mathematics, problem solving and Android development. Languages known by me : Java, Python,C.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
